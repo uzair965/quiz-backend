@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "cores": "^0.8.5",
     "express": "^4.21.2",
@@ -8,3 +11,4 @@
     "uuid": "^11.0.3"
   }
 }
+
