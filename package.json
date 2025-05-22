@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "node index.js"
+    "start": "server.js"
   },
   "dependencies": {
     "cores": "^0.8.5",
