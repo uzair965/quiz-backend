@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "cores": "^0.8.5",
+    "express": "^4.21.2",
+    "http": "^0.0.1-security",
+    "nodemon": "^3.1.9",
+    "socket.io": "^4.8.1",
+    "uuid": "^11.0.3"
+  }
+}
